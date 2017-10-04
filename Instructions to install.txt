@@ -1,0 +1,27 @@
+Copy the folder 'Apparel Billing System' in your C:\ Drive.
+
+Prepare an executable file of 'Main.cpp'
+
+You will then see an executable file by the name 'Main.exe' in the same folder.
+Bingo! You're good to go.
+
+Your stock will be stored in the 'Stock' folder.
+
+All the generated invoices will be stored in the 'Invoices' folder.
+
+Following are the 3 credentials:
+
+User		Password
+----		--------
+Tejas 		tejas123
+
+Chintan		chintan123
+
+Vashishtha		vashishtha123
+
+Login is preceded by '^' (Ctrl + Enter)
+
+
+Happy Time!
+Thank you for using our product!
+Vivemos Felizes!
